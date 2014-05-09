@@ -1,0 +1,83 @@
+<net.mcarolan.PalindromesSpec-stats timestamp="1399650103075"><stats time="25" expectations="100" successes="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399650118038"><stats time="15" expectations="100" successes="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399650154826"><stats time="16" expectations="100" successes="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399650178093"><stats time="15" expectations="100" successes="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399650221005"><stats time="23" expectations="100" successes="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399650395906"><stats time="14" expectations="100" successes="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399650434118"><stats time="15" expectations="100" successes="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399650608699"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="159" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399650608706"><stats time="14" expectations="1" failures="1" examples="1"><trend><stats time="14" expectations="-99" failures="1" successes="-1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399650618444"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="235" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399650618452"><stats time="19" expectations="1" failures="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399650652610"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="175" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399650652615"><stats time="14" expectations="1" failures="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651682751"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="228" expectations="1" errors="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651682756"><stats time="24" expectations="1" errors="1" examples="1"><trend><stats time="24" failures="-1" errors="1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651719211"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="184" expectations="1" errors="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651719217"><stats time="15" expectations="1" errors="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651733505"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="183" expectations="1" errors="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651733511"><stats time="21" expectations="1" errors="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651764618"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="222" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651764624"><stats time="16" expectations="1" failures="1" examples="1"><trend><stats time="16" failures="1" errors="-1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651781431"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="173" expectations="1" errors="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651781438"><stats time="15" expectations="1" errors="1" examples="1"><trend><stats time="15" failures="-1" errors="1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651885045"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="196" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651885052"><stats time="16" expectations="1" failures="1" examples="1"><trend><stats time="16" failures="1" errors="-1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651896588"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="234" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651896595"><stats time="15" expectations="1" failures="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651899052"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="191" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651899059"><stats time="15" expectations="1" failures="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651901276"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="131" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651901285"><stats time="16" expectations="1" failures="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651911820"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="174" expectations="1" errors="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651911827"><stats time="16" expectations="1" errors="1" examples="1"><trend><stats time="16" failures="-1" errors="1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651948366"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="187" expectations="1" errors="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651948373"><stats time="15" expectations="1" errors="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651989106"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="180" expectations="1" errors="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651989114"><stats time="15" expectations="1" errors="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399651997427"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="182" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399651997479"><stats time="14" expectations="1" failures="1" examples="1"><trend><stats time="14" failures="1" errors="-1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399652000559"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="172" expectations="1" errors="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399652000567"><stats time="15" expectations="1" errors="1" examples="1"><trend><stats time="15" failures="-1" errors="1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399652098183"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="206" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399652098191"><stats time="14" expectations="1" failures="1" examples="1"><trend><stats time="14" failures="1" errors="-1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399652100494"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="203" expectations="1" errors="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399652100505"><stats time="21" expectations="1" errors="1" examples="1"><trend><stats time="21" failures="-1" errors="1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399652107738"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="139" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399652107747"><stats time="15" expectations="1" failures="1" examples="1"><trend><stats time="15" failures="1" errors="-1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399652112695"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="143" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399652112704"><stats time="15" expectations="1" failures="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399652115768"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="142" expectations="1" errors="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399652115777"><stats time="15" expectations="1" errors="1" examples="1"><trend><stats time="15" failures="-1" errors="1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399652412342"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="208" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399652412350"><stats time="15" expectations="1" failures="1" examples="1"><trend><stats time="15" failures="1" errors="-1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399652453831"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-1618811693"><stats time="181" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399652453839"><stats time="15" expectations="1" failures="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399652633779"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-324461993"><stats time="219" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399652633791"><stats time="17" expectations="1" failures="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399652649732"><stats time="15" expectations="100" successes="1" examples="1"><trend><stats time="15" expectations="99" failures="-1" successes="1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
