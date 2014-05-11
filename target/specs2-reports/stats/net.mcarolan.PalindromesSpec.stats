@@ -81,3 +81,17 @@
 </net.mcarolan.PalindromesSpec-results>
 <net.mcarolan.PalindromesSpec-stats timestamp="1399652633791"><stats time="17" expectations="1" failures="1" examples="1"></stats></net.mcarolan.PalindromesSpec-stats>
 <net.mcarolan.PalindromesSpec-stats timestamp="1399652649732"><stats time="15" expectations="100" successes="1" examples="1"><trend><stats time="15" expectations="99" failures="-1" successes="1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399676153816"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="1939374811"><stats time="4956" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399676153894"><stats time="397" expectations="101" failures="1" successes="1" examples="2"><trend><stats time="397" expectations="1" failures="1" examples="1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399676234323"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-390039649"><stats time="400" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399676234369"><stats time="31" expectations="101" failures="1" successes="1" examples="2"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-results timestamp="1399676286740"><result location="scala.collection.LinearSeqOptimized (LinearSeqOptimized.scala:111)" id="-390039649"><stats time="268" expectations="1" failures="1" examples="1"></stats></result>
+</net.mcarolan.PalindromesSpec-results>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399676286769"><stats time="51" expectations="101" failures="1" successes="1" examples="2"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399676412866"><stats time="34" expectations="101" successes="2" examples="2"><trend><stats time="34" failures="-1" successes="1"></stats></trend></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399845126557"><stats time="182" expectations="101" successes="2" examples="2"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399845147575"><stats time="36" expectations="101" successes="2" examples="2"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399845243007"><stats time="486" expectations="101" successes="2" examples="2"></stats></net.mcarolan.PalindromesSpec-stats>
+<net.mcarolan.PalindromesSpec-stats timestamp="1399846142127"><stats time="127" expectations="101" successes="2" examples="2"></stats></net.mcarolan.PalindromesSpec-stats>

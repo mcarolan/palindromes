@@ -3,3 +3,7 @@ run
 reload
 gen-idea
 test
+run hi
+run anna
+run anna 1
+test
